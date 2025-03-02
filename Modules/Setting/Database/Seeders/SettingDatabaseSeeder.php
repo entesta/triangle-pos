@@ -22,8 +22,8 @@ class SettingDatabaseSeeder extends Seeder
             'notification_email' => 'notification@test.com',
             'default_currency_id' => 1,
             'default_currency_position' => 'prefix',
-            'footer_text' => 'Triangle Pos © 2021 || Developed by <strong><a target="_blank" href="https://fahimanzam.me">Fahim Anzam</a></strong>',
-            'company_address' => 'Tangail, Bangladesh'
+            'footer_text' => 'Triangle Pos © 2024',
+            'company_address' => 'Kolkata, India'
         ]);
     }
 }
